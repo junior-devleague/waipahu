@@ -31,7 +31,7 @@ Create a block comment with your full name, date, title: javascript test review
 // Create an Object named hero
   // set wizard to Merlin
   // set weapon to an item from the weaponChest array.
-  // set power to any number between 0 and 50
+  // set weaponPower to any number between 0 and 50
 
 
 
