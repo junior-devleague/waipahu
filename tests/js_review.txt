@@ -1,0 +1,75 @@
+Within the root of your project folder:
+
+
+Create a folder named: js_test_review
+Create a file named: test_review.js
+
+
+Initialize git
+
+
+Open js_test_review/test_review.js inside sublime text.
+Create a block comment with your full name, date, title: javascript test review
+
+
+
+
+// Create the following variables
+  // set knight to one of the following : Arthur, Gwain or Lacelot.
+  // set maiden to one of the following : Guinevere, Jane,  Morgana
+  // set monster to one of the following : Dragon, Loch Ness, Griffin
+
+
+
+
+// Create an Array
+  // named the array weaponChest and list the following, Mace, Sorcerer’s Stone, Excalibur
+
+
+
+
+// Create an Object named hero
+  // set wizard to Merlin
+  // set weapon to an item from the weaponChest array.
+  // set power to any number between 0 and 50
+
+
+
+
+// Hail the King
+// Create a function named  swordInTheStone  that has one (1) parameter, worthy
+// If  worthy is Arthur, proclaim (via console log) We have found our King worthy.
+// else proclaim (via console log) We must keep searching, for worthy is unworthy.
+
+
+// invoke the swordInTheStone function and pass in the knight variable.
+
+
+
+
+// Hail the King and Queen
+// Create a function named trueLove that has two (2) parameters, king and queen
+// If queen is Guinevere and king is Arthur,
+// proclaim On this day, our king and queen shall rule happily ever after
+// Else proclaim We must keep searching, for true love must reign over Camelot.
+
+
+// invoke the trueLove function and pass in the knight and maiden variables.
+
+
+
+
+
+
+// Merlin and Monster
+// Create a function named epicBattle that has three (3) parameters, wizard, enemy, power
+  // If power is less than or equal to 15
+    // proclaim Our wizard has fallen.
+
+
+  // else if power is greater than or equal to 16 and less than or equal to 40
+    // proclaim wizard has almost slain enemy.
+
+  // else proclaim Our wizard has slain the enemy!
+
+// invoke epicBattle and pass in the object’s first key value, monster variable and the object’s third key value
