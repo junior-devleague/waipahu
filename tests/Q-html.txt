@@ -1,0 +1,20 @@
+// Waipahu 2016 // HTML Quiz
+
+
+1. What does HTML stand for?
+
+2. Give an example of an HTML tag
+
+3. Give an example of an HTML element
+
+4. What is an HTML attribute?
+
+5. Give an example of an attribute
+
+6. Identify the following using this example:
+<a href=”http://placekitten.com/g/200x100”>KITTY</a>
+
+  - Name the element
+  - Identify the attribute
+  - Identify the attribute value
+  - Write the end tag

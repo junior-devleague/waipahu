@@ -1,0 +1,47 @@
+// Waipahu 2016 - First quiz that reviews intro topics
+
+Quiz 1:
+
+
+What are the two types of application environments?
+  Ans: Desktop and Mobile
+
+
+List two (2) traits of a Developer.
+  Possible answers: Team player, Clear communication, Problem solver, Ownership
+
+
+ List the three (3) tools used for web development.
+  Ans: Git/Github, Git shell (Terminal/CLI), Sublime text
+
+
+What does CLI stand for?
+  Ans: Command line interface
+
+
+What does GUI stand for?
+  Ans: Graphical user interface
+
+
+What does the command, LS do?
+  Ans: Lists directories within a folder/directory
+
+
+How do you create a folder/directory?
+  Ans: mkdir
+
+
+What does the touch command do?
+  Ans: Creates a file
+
+
+Identify the root folder: mr_tan/helloworld/index.html
+  Ans: mr_tan
+
+
+What tool do web developers use for a Version Control System ?
+Ans: Git
+
+
+How do you initialize git for your project?
+Ans: git init

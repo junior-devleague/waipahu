@@ -1,0 +1,18 @@
+// Waipahu Quiz on CSS
+
+
+1. Where do you place a link for an external style sheet?
+
+
+2. Write the following code:
+  Paragraph element with an ID of first
+
+  Div element with a class of wrapper
+
+  Div element with a class of article and blue
+
+
+Identify the following from the example: H1 { color: red }
+  Selector
+  Property
+  Value

@@ -1,0 +1,48 @@
+// Waipahu 2016 Quiz on Arrays and Objects
+
+// Students will need to know functions and conditionals as well.
+  //Further understanding how to access arrays and objects inside of functions.
+
+
+
+// Arrays
+
+Create a variable named myArray and define an array.
+
+Inside the array store two strings, the number 10, and boolean set to true.
+
+Access the array and console log the number 10.
+
+// ------------------ //
+
+Create a function with one parameter. Inside the function create a conditional that checks the parameter for the boolean. If it is true then console log a sentence with your two strings and the number. Else console log “You Shall Not Pass!”
+
+
+Invoke the function and pass the array variable.
+
+*Hint for students when anything created inside of your functions must access the array or object with the parameter name.
+
+
+
+// Objects
+
+Create another variable named batman and define an object.
+
+Inside the object store the following keys:
+  Man and value of true
+  utilityBelt and an array of weapons
+  vehicle and a value of batmobile
+  sidekick and a value of robin
+
+// ------------------ //
+
+Create a function with one parameter. Inside the function create a conditional that checks the parameter if our hero is a man. If true console.log a sentence with a weapon, vehicle and sidekick values. Else console.log “No, I’m the Bat”.
+
+
+Invoke the function and pass your object variable
+
+*Hint for students when anything created inside of your functions must access the array or object with the parameter name.
+
+
+
+

@@ -1,0 +1,20 @@
+// Waipahu 2016 - Responsive Design and Javascript Quiz
+
+
+Describe responsive design.
+
+Explain media queries.
+
+Write a media query for large screens
+
+Name 3 data types and give an example.
+
+What is var in Javascript?
+
+What is the logical operator for the following:
+
+  AND
+
+  OR
+
+Give an example if a pseudo selector in css.

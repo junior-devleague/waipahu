@@ -1,0 +1,57 @@
+Within your project root folder:
+
+// Using terminal commands
+  Create a folder named: test_review
+  Create a file named: index.html
+
+
+  Initialize git inside test_review
+
+
+Open test_review/index.html inside sublime text.
+Give the page a title of: [Your Name] - Test Review
+
+// -------------- //
+
+Inside the body add a Header and Footer.
+Add your First and Last name to the Header inside a h1 element
+
+After the Header element add a div with the class container
+
+// -------------- //
+
+Inside the container div create a div with an id of questions
+
+Inside the question div answer the following in an ordered list:
+  Name two traits of a Web Developer
+  What are two parts of an elevator pitch
+  Give an example of a high concept pitch
+  Where do you place a link for an external style sheet?
+  What is traction?
+
+// -------------- //
+
+After the question div create another div with the class container
+Inside the second container div create three divs with class of square.
+Inside the square divs add a h3 element and number the squares 1, 2, 3.
+
+// -------------- //
+
+Inside your footer add a paragraph element with your Last name, Date, and TAN2111
+
+// -------------- //
+
+Inside your test_review folder create a css folder
+Create a file named: styles.css
+Link the external style sheet in your index.html
+
+// -------------- //
+
+Add the following css:
+  Change the color of your Name to #CCC
+
+  Give a width to the class container of 960px, margin of 10px top and bottom and auto left and right, padding of 15px, and a 2px black border to class container
+
+  Select the square class and give it a width of 25%, margin and padding of 15px and a background color of salmon.
+
+  Float the square left
