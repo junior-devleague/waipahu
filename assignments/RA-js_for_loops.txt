@@ -1,0 +1,19 @@
+// Waipahu 2016 Research Assignment js for loops
+
+// Students research only for loops. Learning syntax and logic.
+
+// This assignment reinforces self learning and online researching for solutions.
+
+https://drive.google.com/open?id=1V_QyHuob8I2Oq7GJYiqTSyVm5tYWf0IIVKtClCPrxlY
+
+// Assigment is worth 10 points
+
+What is a Javascript Loop? (1)
+
+Name the FOUR types of JS Loops? (4)
+
+Write the syntax of a FOR LOOP. (1)
+
+In a For Loop, define the three statements. (3)
+
+Create a for loop. (1)

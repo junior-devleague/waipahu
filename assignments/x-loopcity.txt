@@ -1,8 +1,10 @@
-/*
+Waipahu 2016 - Loop City
+
   Loops on Loops on Loops
-  Nov. 28, 2016
-  Joelle Torneros & Jon Tan
-*/
+  https://drive.google.com/open?id=18uwVjbdaKB9XcDAFtXUhrEL-b5im71k-ndsehTo8zv8
+
+  Students apply knowledge from research about for loops.
+
 
 // Mommy I can count to 100
 /*
@@ -33,7 +35,7 @@
 
 
 
-
+// Break from for loops.
 // Merlin's Battle
 /*
   Make sure Merlin has equiped the correct weapon to defeat the dragon.

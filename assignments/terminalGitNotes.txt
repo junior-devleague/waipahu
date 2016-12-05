@@ -1,0 +1,40 @@
+// Waipahu - Terminal Git Notes - Joelle Torneros and Jon Tan
+Practicing Terminal and Git Commands
+Number of Points (2)
+- Local notes folder and file created, github repo created and successful push to github.
+- Students should have the majority of the following notes to receive full credit: https://gist.github.com/jmt75200/e0faca653271d1f52ea348a3fd00ef3d
+
+// Introduction and reinforcement of Terminal and Git Commands
+Students will be able to understand the flow between Git (local) and Git hub.
+They will also be able to practice using terminal and git commands.
+
+Commands used:
+cd, mkdir, touch
+git init, git add [file], git commit -m "notes"
+git push
+
+// Let's get started!
+
+Terminal commands
+- Create a root folder lastnameFirstname
+- Within the root folder create a folder notes
+- cd into notes folder and create a text file (.txt) notes.txt
+- Open notes.txt in sublime text
+- Add notes and save
+
+(local) Git commands
+- git init within the notes folder
+- git add notes.txt
+- git commit -m 'my first git commit'
+
+Github commands
+- Create a new Github Repo
+- ReadMe.md ( Optional if you teach what a read me is for )
+- Add to an existing repo
+  - git remote add origin https://[url]
+  - git push -u origin master
+  or - git push --set-upstream origin master
+
+
+
+

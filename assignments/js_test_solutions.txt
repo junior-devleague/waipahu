@@ -1,0 +1,38 @@
+Waipahu 2016
+
+  js_test_solutions exercise was to introduce a git branching as well as giving the solutions for the Javascript test given Nov. 23, 2016
+
+  This assignment is worth one point for creating and pushing to branch
+
+Progression:
+
+Step one: Introduce Branches in Git/Github
+
+  Branches - Branches are used to develop features isolated from each other. The master branch is the "default" branch when you create a repository. Use other branches for development and merge them back to the master branch upon completion.
+
+
+Step two: Set up solutions branch
+
+  Inside test_review folder create a branch
+    git branch solutions
+    git checkout solutions
+
+    or git checkout -b solutions
+
+  Open your js_test_review.js in sublime text
+
+  Make a comment or change in the test file and save
+
+  git checkout master
+
+  Observe what happens to the test file. Your changes should not be shown.
+   -- this is to demonstrate the difference between master and the newly created branches
+
+
+Step three: Live code the test solutions
+
+  When complete save.
+
+  git add [file].js
+  git commit -m "solutions"
+  git push --set-upstream origin solutions

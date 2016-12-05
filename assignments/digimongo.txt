@@ -1,0 +1,19 @@
+// Waipahu 2016 - Web page recreation
+
+  Current layout used for this exercise: Digimon Go
+
+  The progression:
+
+  HTML (5)
+    - looking for good structure and correct syntax.
+    - must have head, html tag, body, header, menu, hero "area", content area and footer elements
+
+  CSS (5)
+    - looking for external link, css folder structure and correct syntax
+    - must have float or inline, clearfix, percentages for widths, psuedo selector :hover, background-image (optional)
+
+  Responsive Design - Mobile version (optional) (5)
+    - based on the layouts given
+    - must use media queries
+
+  Publish - Use github pages to publish site

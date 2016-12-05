@@ -1,0 +1,39 @@
+//Waipahu 2016 - Journal // HTML
+
+  Students will create and upkeep their own Journals durning this course.
+  Students learn the basic structure of a Web page and proper HTML syntax.
+
+  Follow the template given. Students are to outline the layout and identify elements such as header, divs with classes and footers before any coding.
+
+  This is for instructor reference only. =)
+
+
+
+Grading for HTML: 5 total
+  Head and html tag (1)
+  Body, header and footer (1)
+  Correct syntax for elements, attributes, lists, h1, etc. (1)
+  All Jounal entries thus far. (2)
+    (Number of entries depends on when assignment is due.)
+
+Grading for CSS: 5 total
+  Correct external links (1)
+  Correct syntax for classes and ids (1)
+  Correct syntax for css (2)
+  Must have floats, clearfix and percentage for width values. (1)
+
+
+The following is a list of journal entry topics
+  My First Entry
+  UX vs UI
+  HTML & CSS
+  Digimon Go
+  Mobile First
+  Media Queries
+  Basic Javascript
+  Conditional Statements
+  Verizon App Challege
+
+
+
+

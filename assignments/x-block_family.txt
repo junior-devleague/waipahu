@@ -1,0 +1,30 @@
+// Waipahu 2016 Block Family
+
+  Students learn responsive design and break points
+
+  Project was adjusted to only CSS and inspired from:
+  https://github.com/devleague/block-family
+
+  Note: Some students did not use Media Queries but inline block to make blocks responsive.
+
+  For Future instructors, media queries are not exactly optional here. Moving forward if the students choose no to use MQ, do not give full credit.
+
+  Assignment Progression: (5 points)
+
+  Small Screen
+    HTML - (2 point)
+    - Create an HTML page with a head, html tag and body.
+    - Inside create an H1 with the title: Block Family
+    - Create 9 divs with the class "block" and inside an h2 or p: Block
+
+    CSS - (3 points)
+    - Create css folder, .css file and an external link
+    - Use Media Quieries to:
+      - change the background of the page to three different colors
+    - Blocks should not move
+
+    2-3 Column layout (extra 1 point)
+    - Use Media Queries to create
+      - 2 column layout at Medium break point
+      - 3 column layout at Large break point
+

@@ -1,0 +1,31 @@
+// Waipahu 2016 - Aliens Exercise
+
+  Students practice if conditionals.
+
+  Worth one point for pushing to github.
+  If they are working in groups or pair programing both students must push to git hub.
+
+// LET'S GET STARTED!!
+
+Aliens are invading!
+
+// Create Variables
+There are blue, green, and red aliens.
+The total amount of aliens there are is 10,000.
+
+
+// Set up Conditional
+
+First, check if there are 10,000 aliens.
+
+Then, if there are more than 5,000 green aliens, console.log "Ugh, why are they so ugly?"
+
+If there are more than a total of 8,000 green and red aliens combined, console.log "No, why?????"
+
+If there are not more than 3000 red and blue aliens combined, console.log
+"Okay, this seems somewhat manageable. Wait no, we're still dead..."
+
+You may assign the alien amounts yourself, but the total must add up to ten thousand!
+
+
+

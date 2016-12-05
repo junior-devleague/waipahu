@@ -1,0 +1,52 @@
+// Waipahu 2016 - Research Assignment_Responsive Design
+
+// Students are given two different sets of questions.
+// This assignment reinforces self learning and online researching for solutions.
+
+https://drive.google.com/open?id=1GR4M3hB7umLz9kk64EIsnYWI1l6YOoDwf8TQBpIt2g0
+
+// A point was given upon completion
+
+1. Explain Responsive Design.
+  A. Building a site to respond to multiple sizes also known as fluid design.
+
+  1a. Give an example of responsive design
+    A. Google Facebook
+
+2. Find one resource for grid based web design.
+  A. Web Design with grid content layout.
+
+3. Explain media queries.
+  A. Break points in CSS that tell your app to change according to screensize.
+
+4. Give an example of a media query in code for medium screens.
+
+5. What is em in CSS?
+  A. Unit of measure in CSS that adjusts to parent times 150%. Use em in responsive design and pixels on static pages.
+
+  5a. How do you convert px to em?
+    A. Multiply by 1.5.
+
+6. Give an example and explain pseudo class selectors. Used to define a special state.
+
+
+
+///////// ----- Second Set of Questions ----- ////////
+
+
+
+1. Give an example of mobile design.
+
+  1a. What makes the design an effective for mobile.
+
+2. Find one resource for grid based web design.
+
+3. Explain media queries
+
+4. Give an example of media query in code for small screens.
+
+5. What is em in css?
+
+  5a. How do you convert px to em?
+
+6. Explain and give an example of specificity in CSS.

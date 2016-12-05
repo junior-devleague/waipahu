@@ -1,0 +1,24 @@
+// Waipahu 2016
+  Creating a Calculator
+
+  Assignment is to reinforce conditionals, functions and parameters
+  https://docs.google.com/document/d/1saV_Ey1EXq-yAygf1bss8gWGGNi7WJroXJKYI0as-W4/edit
+
+
+Create a Calculator function that takes Three Parameters.
+
+  The calculator will be able to calculate the following: Addition, Subtraction, Multiplication, Division.
+
+
+  The First Parameter of the function will be the type of calculation ie. Add or Subtract or Multiply or Divide.
+
+  The Second Parameter will be the first value that the calculator will use in the calculation
+
+  The Third Parameter will be the second value that the calculator will use in the calculation
+
+  Console log the result of the calculation
+
+
+  Notes:
+  The calculator must calculate the two values based on what type of calculation is needed
+  Don’t forget to invoke the Calculator function with the Three Parameters
