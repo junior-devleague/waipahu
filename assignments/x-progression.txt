@@ -1,0 +1,65 @@
+// Waipahu 2016 - Progression Exercise
+
+  Students will apply all the basics js in a set of progression.
+
+
+// Progression one - setting up variables
+
+  Create 5 variables with their values set to arrays
+    one with an array of numbers
+      ex: numbers
+    fourth with arrays of strings
+      ex: names, colors, adj, slang
+
+  Create 2 object variables with 4 keys each with one value that is boolean, one array, one string and one number.
+
+// ------- Creat a new branch --------- //
+
+
+// Progression two - functions, conditionals and loops
+
+  Create and name a function with one parameter. console.log adding two values from the numbers array via the parameter. Invoke the function and pass the numbers array.
+
+    Invoke your function and pass your numbers array as the parameter.
+
+  // ----------------- //
+
+  Create and name a function with one parameter. Create a for loop and set the length to the parameter's key with the value of the array.* Console.log a sentence for each value.
+
+    Invoke your function and pass one of your objects
+
+    *hint: use parameter.length
+
+  // ----------------- //
+
+  Create and name a function with one parameters. Create a conditional that checks the first parameter for true or false. If true, console.log a sentence that uses values from the parameter's strings and numbers. Else console.log a sentence that uses different values from the parameter that are strings and numbers.
+
+    Invoke your function and pass one of your objects
+
+  /// -------- Do you lift bro? --------- ///
+
+  Create and name a function with two parameters. Console.log a sentence using values from each parameter.
+
+    Invoke your function and pass the colors and slang variables.
+
+  // ----------------- //
+
+  Create and name a function with two parameters. Create a for loop that runs the length of the first parameter. Console.log a sentence using two values from each parameter.
+
+    Invoke your function and pass the names and adj variables.
+
+
+// ------- Creat a new branch --------- //
+
+
+// Progression three - UNLOCK ALL THE TINGS!!!
+
+  Create and name a function with four parameters. Inside the function create and name a new variable. Set the new variable to an array with four (4) random values from the numbers array (numbers[3], numbers[2],...).
+
+  Create four separate if conditionals for each parameter. Compare parameter one with the first index in the lock array, compare the second to the second index, and so on.
+
+  If true create and name new variable set to true and console.log a sentence stating that the parameter has passed. Else set that same variable to false.
+
+  Check all of your new variables you created in the four conditionals. If they are all true console.log "You may enter the vault". Else console.log "Do not pass go!"
+
+  Invoke your function and pass random values, via accessing the numebrs array or with regular numbers, through all four parameters.

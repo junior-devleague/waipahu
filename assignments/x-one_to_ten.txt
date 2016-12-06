@@ -1,4 +1,4 @@
-// Waipahu 2016
+// Waipahu 2016 One to Ten Exercise
 
   Students practice and apply knowledge of conditionals, functions, data types and variables.
 
