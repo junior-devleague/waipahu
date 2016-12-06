@@ -1,0 +1,25 @@
+// Waipahu 2016 - Methods for numbers and strings
+
+  Students will learn and research inherent methods and properties for numbers and strings
+
+  Possible points 8
+
+
+// String Methods //
+
+List three string methods and explain what they do. (3)
+
+Explain the following Math methods: (5)
+
+  Math.round()
+
+  Math.floor()
+
+  Math.min()
+
+  Math.max()
+
+  Math.random()
+
+
+
