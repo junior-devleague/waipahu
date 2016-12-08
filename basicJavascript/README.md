@@ -15,7 +15,7 @@
 <h4>Suggested Format for Delivery</h4>
 
 <h5>Research Assignments</h5>
-<p>The following assigments were given to help the students grasp about each topic above. Students are required to reseach each topic before projects are given.</p>
+<p>The following assignments were given to help the students grasp about each topic above. Students are required to research each topic before projects are given.</p>
 
 <ul>
   <li><a href="https://github.com/junior-devleague/waipahu/blob/master/assignments/RA-js_arrays_objects.txt">Objects and Arrays</a> - Students will research the syntax and how to access each data type.</li>
@@ -36,5 +36,5 @@
 </p>
 
 <ul>
-  <li></li>
+  <li><a href="https://github.com/junior-devleague/redAlert_js">Red Alert</a> -  Combination of HTML,Javascript Logic and Events</li>
 </ul>
