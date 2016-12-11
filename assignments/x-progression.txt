@@ -49,17 +49,3 @@
     Invoke your function and pass the names and adj variables.
 
 
-// ------- Create a new branch --------- //
-
-
-// Progression three - UNLOCK ALL THE TINGS!!!
-
-  Create and name a function with four parameters. Inside the function create and name a new variable. Set the new variable to an array with four (4) random values from the numbers array (numbers[3], numbers[2],...).
-
-  Create four separate if conditionals for each parameter. Compare parameter one with the first index in the lock array, compare the second to the second index, and so on.
-
-  If true create and name new variable set to true and console.log a sentence stating that the parameter has passed. Else set that same variable to false.
-
-  Check all of your new variables you created in the four conditionals. If they are all true console.log "You may enter the vault". Else console.log "Do not pass go!"
-
-  Invoke your function and pass random values, via accessing the numebrs array or with regular numbers, through all four parameters.
