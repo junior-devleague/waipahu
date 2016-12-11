@@ -16,6 +16,7 @@
   <li>layout</li>
   <li>media queries</li>
   <li>learning how to style mobile first</li>
+  <li>Usage of IDs and classes on HTML elements</li>
 </ul>
 
 <h4>Design Principals:</h4>
@@ -46,6 +47,7 @@
 <ul>
   <li><a href="https://github.com/junior-devleague/waipahu/blob/master/assignments/digimongo.txt">Digimon Go</a> - one page layout </li>
   <li><a href="https://github.com/junior-devleague/waipahu/blob/master/assignments/journal.txt">Add CSS to Journal</a></li>
+  <li><a href="#">Portfolio</a> - Creating their own portfolio show casing all of their completed projects. (CSS portion)</li>
 </ul>
 
 <h5>Tests and Quizes</h5>

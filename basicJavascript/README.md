@@ -54,6 +54,7 @@
 
 <ul>
   <li><a href="https://github.com/junior-devleague/redAlert_js">Red Alert</a> -  Combination of HTML,Javascript Logic and Events</li>
+  <li><a href="#">Portfolio</a> - Creating their own portfolio show casing all of their completed projects. (JS portion)</li>
 </ul>
 
 <h5>Test and Quizes</h5>
