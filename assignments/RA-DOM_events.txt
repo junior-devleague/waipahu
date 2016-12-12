@@ -10,10 +10,11 @@ What is the DOM?(1)
 
 What is a Javascript Event?(1)
 
-Name and describe two types of Javascript Events (2)
+Name and describe two types of Javascript Mouse or Keyboard Events.(2)
+(Excluding onClick)
 
 How do you add a js externally to your index.html page?(1)
 
-How do you change a class or id name in Javascript?(1)
+How do you add a class to an element in Javascript?(1)
 
 How do you change the background color of a div element using Javascript?(1)

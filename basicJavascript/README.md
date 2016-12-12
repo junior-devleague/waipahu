@@ -37,6 +37,7 @@
 <ul>
   <li><a href="https://github.com/junior-devleague/waipahu/blob/master/assignments/RA-js_arrays_objects.txt">Objects and Arrays</a> - Students will research the syntax and how to access each data type.</li>
   <li><a href="https://github.com/junior-devleague/waipahu/blob/master/assignments/RA-js_for_loops.txt">Loops</a> - Students will research different types of loops and the syntax of a for loop.</li>
+  <li><a href="https://github.com/junior-devleague/waipahu/blob/master/assignments/RA-DOM_events.txt">DOM and Events</a> - Students learn and grok DOM and Events.</li>
 </ul>
 
 <h5>Projects and Exercises</h5>
@@ -54,6 +55,7 @@
 
 <ul>
   <li><a href="https://github.com/junior-devleague/redAlert_js">Red Alert</a> -  Combination of HTML,Javascript Logic and Events</li>
+  <li><a href="https://github.com/junior-devleague/cmd_ctr/tree/master">CMD_CTR</a> - Adds CSS to the combination of HTML and JS events</li>
   <li><a href="#">Portfolio</a> - Creating their own portfolio show casing all of their completed projects. (JS portion)</li>
 </ul>
 
