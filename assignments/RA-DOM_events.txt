@@ -1,0 +1,19 @@
+// DOM and Events Research Assignment
+
+Students will learn what the Document Object Model (DOM) is and how Javascript plays a part in creating functionality through the DOM and Events.
+
+Possible points 7
+
+// ---------------------- //
+
+What is the DOM?(1)
+
+What is a Javascript Event?(1)
+
+Name and describe two types of Javascript Events (2)
+
+How do you add a js externally to your index.html page?(1)
+
+How do you change a class or id name in Javascript?(1)
+
+How do you change the background color of a div element using Javascript?(1)
