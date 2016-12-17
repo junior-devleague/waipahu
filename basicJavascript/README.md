@@ -56,6 +56,7 @@
 <ul>
   <li><a href="https://github.com/junior-devleague/redAlert_js">Red Alert</a> -  Combination of HTML,Javascript Logic and Events</li>
   <li><a href="https://github.com/junior-devleague/cmd_ctr/tree/master">CMD_CTR</a> - Adds CSS to the combination of HTML and JS events</li>
+  <li><a href="https://github.com/junior-devleague/fortune-cookie-generator">Fortune Cookie Generator</a> - In this assignment students explore the native tools provided in Javascript to navigate and affect the DOM. </li>
   <li><a href="#">Portfolio</a> - Creating their own portfolio show casing all of their completed projects. (JS portion)</li>
 </ul>
 
