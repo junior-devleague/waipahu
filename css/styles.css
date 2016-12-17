@@ -1,6 +1,24 @@
+body{
+  font-size: 16px;
+  font-family: 'Oxygen', sans-serif;
+}
+
+h1, h2, h3, h4, h5{
+  font-family: 'Russo One', sans-serif;
+}
+
+a{
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
 header {
   width: 70%;
   margin: 0 auto;
+  border-bottom: 1px solid #000;
 }
 
 header h1{
@@ -18,6 +36,10 @@ header h1{
   width: 30%;
   float: left;
   margin: 5px;
+}
+
+.student h3{
+  text-align: center;
 }
 
 footer{
