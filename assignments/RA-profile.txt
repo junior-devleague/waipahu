@@ -1,0 +1,20 @@
+// Research assignment for Profile
+
+  To prep for next semester students will be asked to create their project profile page. It will be a one page web app that uses html 5, css and js.
+
+  For this assignment, blog about three (3) online one page portfolios.
+  Answer the following questions:
+
+  1. What do you like about the page?
+
+  2. Describe any special the user interactions. Ex: When I mouse over this area, the background changes color.
+
+ // ---------------------- //
+
+  Summary:
+
+  1. What inspired/interested you from the examples above?
+
+  2. What functionalities would you like to add for your portfolio?
+
+

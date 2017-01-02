@@ -1,4 +1,4 @@
-// Waipahu 2016 - Methods for numbers and strings
+// Methods for numbers and strings
 
   Students will learn and research inherent methods and properties for numbers and strings
 

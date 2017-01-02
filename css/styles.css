@@ -32,14 +32,36 @@ header h1{
 }
 
 .student{
-  background-color: salmon;
+  /*background-color: salmon;*/
+  border: 1px solid #ccc;
   width: 30%;
   float: left;
   margin: 5px;
 }
 
+.student:hover{
+  background-color: #dedede;
+}
+
 .student h3{
   text-align: center;
+  margin-bottom: 10px;
+}
+
+.link_list{
+  border-top: solid #ccc 1px;
+}
+
+.link_list ul li{
+  padding: 5px;
+}
+
+a{
+  color: salmon;
+}
+
+a:hover{
+  color: #ccc;
 }
 
 footer{
