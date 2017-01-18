@@ -26,7 +26,7 @@ var students = [
     medium_username: 'banayos.kay'
   },
   {
-    name: 'Dylan',
+    name: 'Dylan Tucker',
     journal: 'https://aoe-dylan.github.io/Journal/',
     github:'https://github.com/AOE-Dylan',
     github_username:'AOE-Dylan',
@@ -58,7 +58,7 @@ var students = [
     medium_username: 'harrisfambam'
   },
   {
-    name: 'Cornelious M',
+    name: 'Cornelious Mooring',
     journal: 'https://github.com/Corneliousm808/journal2',
     github:'https://github.com/Corneliousm808',
     github_username: 'Corneliousm808',
@@ -122,7 +122,7 @@ var students = [
     medium_username: 'JustBacon'
   },
   {
-    name: 'Edson Casintahan',
+    name: 'Edsen Casintahan',
     journal: 'https://sen2017.github.io/JOURNAL/',
     github:'https://github.com/Sen2017',
     github_username: 'Sen2017',
@@ -130,7 +130,7 @@ var students = [
     medium_username: 'S3N.CA5'
   },
   {
-    name: 'Gwen',
+    name: 'Gwen Raquepo',
     journal: 'https://gwenraq.github.io/MyJournal/',
     github:'https://github.com/GwenRaq',
     github_username: 'GwenRaq',

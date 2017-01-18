@@ -1,5 +1,5 @@
 body{
-  font-size: 16px;
+  font-size: 13px;
   font-family: 'Oxygen', sans-serif;
 }
 
@@ -40,7 +40,7 @@ header h1{
 }
 
 .student:hover{
-  background-color: #dedede;
+  /*background-color: ;*/
 }
 
 .student h3{
