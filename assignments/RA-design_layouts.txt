@@ -1,0 +1,21 @@
+Design Layouts
+
+Research the following questions and create a medium blog post. Please link any and all references made within your blog.
+
+Create wireframes from sites that interested you from your portfolio research assignment. By breaking down a website's design into it's simplest form, you focus on the important elements that make up the website.
+
+---------------------------------------------------
+
+1. Review the three portfolios you researched before. Choose one break down the layout into wireframes.
+
+  You should have a minimum of 3 wireframes; Home page, Project List and About. There may also be a contact us/me and a blog. If your site is a one page layout, each navigation item has a wireframe.
+
+  FOR EACH WIREFRAME:
+    Describe each wireframe, highlight html elements and any interesting User Interactions.
+
+2. Create a minimum of 3 wireframes for your portfolio; Home, Project List, Resume.
+
+  FOR EACH WIREFRAME:
+    Describe each wireframe, highlight html elements and any interesting User Interactions.
+
+
