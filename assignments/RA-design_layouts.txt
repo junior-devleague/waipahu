@@ -6,7 +6,7 @@ Create wireframes from sites that interested you from your portfolio research as
 
 ---------------------------------------------------
 
-1. Review the three portfolios you researched before. Choose one break down the layout into wireframes.
+1. Review the three portfolios you researched before. Choose ONE(1) break down the layout into wireframes.
 
   You should have a minimum of 3 wireframes; Home page, Project List and About. There may also be a contact us/me and a blog. If your site is a one page layout, each navigation item has a wireframe.
 

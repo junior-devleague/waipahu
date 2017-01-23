@@ -1,0 +1,15 @@
+Quiz - Animations and Wireframe Designs
+
+1. Describe CSS transform.
+
+
+
+2. Describe CSS animations.
+
+
+
+3. What is a wireframe?
+
+
+
+4. How are wireframes useful when designing a website?
