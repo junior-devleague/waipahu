@@ -1,0 +1,20 @@
+Array Methods
+
+Research the following questions and create a medium blog post. Please link any and all references made within your blog.
+
+
+----------------------------------------------
+
+1. Explain Array methods and why they are important.
+
+2. Explain array.map() and how it is different than looping through an array?
+
+3. Give three (3) examples of Array methods for the following array:
+    var myArray = ["apples", "bannas", "oranges", "cherries"];
+
+4. Give an example of a project where using array methods can be or have been useful for you.
+
+5. List three (3) youtube video or website resources, other than W3Schools and MDN, that explain array methods. How did they help you understand array methods as a concept?
+
+
+

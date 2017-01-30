@@ -1,0 +1,15 @@
+Object Methods
+
+Research the following questions and create a medium blog post. Please link any and all references made within your blog.
+
+
+-------------------------------------------------
+
+1. Explain object methods and why they are used.
+
+2. Give an example of a project where object methods can be or have been useful.
+
+3. Give three (3) examples of object methods and and example of when to use it.
+
+4. List three (3) youtube video or website resources, other than W3Schools and MDN, that explain array methods. How did they help you understand array methods as a concept?
+
