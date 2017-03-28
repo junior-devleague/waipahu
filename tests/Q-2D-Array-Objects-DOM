@@ -1,0 +1,22 @@
+Q-2D-Array-Objects-DOM
+
+var myOrders = [
+ {
+  item : 'Monitor',
+  brand : 'Samsung',
+  quantity: 2,
+  description: ["24'", "LCD", "New"]
+ },
+ {
+  item : 'Mechanical Keyboard',
+  brand : 'Pok3r',
+  quantity: 1,
+  description: ["Cherry MX", "Black Case", "New"]
+ },
+ {
+  item : 'Tablet',
+  brand : 'iPad',
+  quantity: 2,
+  description: ["7'", "Space Gray", "Referbished"]
+ },
+]
