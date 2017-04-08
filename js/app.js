@@ -206,8 +206,8 @@ var students = [
     journal: 'https://wildcherrybazzaire.github.io/journal/',
     github:'https://github.com/WildcherryBazzaire',
     github_username: 'WildcherryBazzaire',
-    medium: 'https://medium.com/@psionicbeats',
-    medium_username: 'psionicbeats',
+    medium: 'https://medium.com/@eieghtbitdolphin',
+    medium_username: 'eieghtbitdolphin',
     project: 'https://github.com/junior-devleague/focus-like-crazy',
     final_project: 'Focus Like Crazy'
   }
