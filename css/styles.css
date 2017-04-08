@@ -29,14 +29,20 @@ header h1{
   width: 70%;
   margin: 0 auto;
   padding: 30px;
+  display: flex;
+  display: -webkit-flex;
+  display: ms-flexbox;
+  flex-flow: row wrap;
+  align-items: stretch;
 }
 
 .student{
   /*background-color: salmon;*/
   border: 1px solid #ccc;
-  width: 30%;
-  float: left;
   margin: 5px;
+  flex: 1 1 30%;
+  /*width: 30%;*/
+  /*float: left;*/
 }
 
 .student:hover{
@@ -50,6 +56,12 @@ header h1{
 
 .link_list{
   border-top: solid #ccc 1px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.link_list ul{
+  padding: 0;
 }
 
 .link_list ul li{
@@ -69,7 +81,7 @@ footer{
   margin: 0 auto;
 }
 
-.clearfix:after {
+/*.clearfix:after {
      visibility: hidden;
      display: block;
      font-size: 0;
@@ -77,8 +89,8 @@ footer{
      clear: both;
      height: 0;
      }
-.clearfix { display: inline-block; }
+.clearfix { display: inline-block; }*/
 /* start commented backslash hack \*/
-* html .clearfix { height: 1%; }
-.clearfix { display: block; }
+/** html .clearfix { height: 1%; }
+.clearfix { display: block; }*/
 /* close commented backslash hack */
