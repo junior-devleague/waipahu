@@ -8,7 +8,7 @@ var students = [
     github_username:'braden808',
     medium: 'https://medium.com/@braden808',
     medium_username: 'braden808',
-    project: 'https://github.com/junior-devleague/mint',    
+    project: 'https://github.com/junior-devleague/mint',
     final_project: 'Mint'
   },
   {
@@ -73,7 +73,7 @@ var students = [
   },
   {
     name: 'Cornelious Mooring',
-    journal: 'https://github.com/Corneliousm808/journal2',
+    journal: 'https://corneliousm808.github.io/journal2/',
     github:'https://github.com/Corneliousm808',
     github_username: 'Corneliousm808',
     medium: 'https://medium.com/@corn808',
@@ -193,13 +193,23 @@ var students = [
   },
   {
     name: 'Alex Aguinaldo',
-    journal: 'https://github.com/PsionicBeats/Journal',
+    journal: 'https://psionicbeats.github.io/Journal/',
     github:'https://github.com/PsionicBeats',
     github_username: 'PsionicBeats',
     medium: 'https://medium.com/@psionicbeats',
     medium_username: 'psionicbeats',
     project: 'https://github.com/junior-devleague/mint',
     final_project: 'Mint'
+  },
+  {
+    name: 'Kelli McCrary',
+    journal: 'https://wildcherrybazzaire.github.io/journal/',
+    github:'https://github.com/WildcherryBazzaire',
+    github_username: 'WildcherryBazzaire',
+    medium: 'https://medium.com/@psionicbeats',
+    medium_username: 'psionicbeats',
+    project: 'https://github.com/junior-devleague/focus-like-crazy',
+    final_project: 'Focus Like Crazy'
   }
 
 
